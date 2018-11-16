@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Palindrome detector}
   spec.description   = %q{palidrome done in learn enough to be doangerous}
-  spec.homepage      = "https:://github.com/tmoia/tmoia_palindrome"
+  spec.homepage      = "https://github.com/tmoia/tmoia_palindrome"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.

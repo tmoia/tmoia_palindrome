@@ -26,4 +26,7 @@ class TmoiaPalindromeTest < Minitest::Test
     refute 123455.palindrome?
   end
 
+  def test_blank_string
+    refute "   ".palindrome?
+  end
 end
